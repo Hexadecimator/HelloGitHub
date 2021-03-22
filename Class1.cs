@@ -11,6 +11,7 @@ namespace GitHubNamespace1
             Console.WriteLine("Inside TestClass1");
             // Comments for clarity
             Console.WriteLine("Additional Work goes here");
+            Console.WriteLine("Additional Work to be Pulled in to Visual Studio");
         }
     }
 }
